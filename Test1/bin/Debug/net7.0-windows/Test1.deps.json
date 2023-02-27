@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test1/1.0.0": {
+        "dependencies": {
+          "ReactiveUI": "18.4.22"
+        },
+        "runtime": {
+          "Test1.dll": {}
+        }
+      },
+      "DynamicData/7.12.11": {
+        "dependencies": {
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/DynamicData.dll": {
+            "assemblyVersion": "7.12.0.0",
+            "fileVersion": "7.12.11.55878"
+          }
+        }
+      },
+      "ReactiveUI/18.4.22": {
+        "dependencies": {
+          "DynamicData": "7.12.11",
+          "Splat": "14.6.8"
+        },
+        "runtime": {
+          "lib/net7.0/ReactiveUI.dll": {
+            "assemblyVersion": "18.4.0.0",
+            "fileVersion": "18.4.22.6059"
+          }
+        }
+      },
+      "Splat/14.6.8": {
+        "runtime": {
+          "lib/net7.0/Splat.dll": {
+            "assemblyVersion": "14.6.0.0",
+            "fileVersion": "14.6.8.29002"
+          }
+        }
+      },
+      "System.Reactive/5.0.0": {
+        "runtime": {
+          "lib/net5.0/System.Reactive.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DynamicData/7.12.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dcD3ygbFfvFWYX//MWG6P/m6Eenwf0Z5vGZbpa3218/l7tgg/ZdvP58qYF/smLBpu/qeX/xIohzeQAx/YJsqDg==",
+      "path": "dynamicdata/7.12.11",
+      "hashPath": "dynamicdata.7.12.11.nupkg.sha512"
+    },
+    "ReactiveUI/18.4.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1T04eUQnfTmiBA/W7KXYGfkgbsMLxSrTqkhSGkfPde26AYYVGTOEIVhJL+UpYbNhihTA6s+JbYvWwreoMC+I6w==",
+      "path": "reactiveui/18.4.22",
+      "hashPath": "reactiveui.18.4.22.nupkg.sha512"
+    },
+    "Splat/14.6.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WdhGXUvsWPNPzBLc/LC1Q5jLOczupHDc+4Skl0JaTEuyoDjxxe/Dme8UjGTkCPYbhnVWEsEJprWqyWDY5RNB9A==",
+      "path": "splat/14.6.8",
+      "hashPath": "splat.14.6.8.nupkg.sha512"
+    },
+    "System.Reactive/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-erBZjkQHWL9jpasCE/0qKAryzVBJFxGHVBAvgRN1bzM0q2s1S4oYREEEL0Vb+1kA/6BKb5FjUZMp5VXmy+gzkQ==",
+      "path": "system.reactive/5.0.0",
+      "hashPath": "system.reactive.5.0.0.nupkg.sha512"
+    }
+  }
+}

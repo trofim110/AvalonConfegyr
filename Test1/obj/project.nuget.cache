@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iW8xdw+GPsoyfQWb2uvSjCWn1wrzPBl0v2lODSsTX+FsM6+TmpFiCVhxPgS7tVdWEafYorPxqbFnmK0zacas/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\трофим\\Desktop\\Учеба\\Test1\\Test1\\Test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\трофим\\.nuget\\packages\\dynamicdata\\7.12.11\\dynamicdata.7.12.11.nupkg.sha512",
+    "C:\\Users\\трофим\\.nuget\\packages\\reactiveui\\18.4.22\\reactiveui.18.4.22.nupkg.sha512",
+    "C:\\Users\\трофим\\.nuget\\packages\\splat\\14.6.8\\splat.14.6.8.nupkg.sha512",
+    "C:\\Users\\трофим\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
